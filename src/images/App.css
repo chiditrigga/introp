@@ -1,0 +1,52 @@
+body{
+    /* background: hsl(0, 0%, 98%); */
+    background: yellow;
+}
+
+.grey{
+    color: hsl(0, 0%, 41%);
+    font-weight: 500;
+}
+ 
+.do{
+    background: hsl(0, 0%, 98%);
+    border-radius: 10px;
+    border-color: hsl(0, 0%, 41%);
+    color: hsl(0, 0%, 41%);
+
+
+}
+
+.do:hover{
+    border-color: black;
+    color: black;
+    background: hsl(0, 0%, 98%);
+}
+
+
+
+
+
+/* end nav */
+
+/* start body */
+
+.big{
+    font-weight: 700;
+}
+
+p{
+    font-weight: 500;
+}
+@media (min-width: 760px){
+
+    .big{
+    font-weight: 700;
+    font-size: 5rem;
+}
+} 
+    
+
+
+
+
